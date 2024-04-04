@@ -1,17 +1,20 @@
 ---
 layout: default
-title: Student Blog
+title: Casino Home
+permalink: /casinoroom
 ---
-
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Webpage Title</title>
-     <style>
+    <style>
         body {
-            background-color: #ccffcc; /* Light green background color */
+            background-image: url('images/casinoroom.png');
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
             margin: 0;
             font-family: 'Arial', sans-serif;
             color: #ffffff; /* Text color */
@@ -53,12 +56,12 @@ title: Student Blog
 </head>
 <body>
     <div class="textbox">
-        <h1>Welcome to the CPT Project Page</h1>
-        <p>Choose the project you'd like to participate in!</p>       
+        <h1>Welcome to the Casino Room</h1>
+        <p>Choose the game you'd like to participate in!</p>       
         <div class="button-container">
-            <a href="casinoroom" class="button">Casino</a>
-            <a href="" class="button">(Kayden's CPT)</a>
-            <a href="" class="button">(Sharon's CPT)</a>
-            <a href="" class="button">(Alisha's CPT)</a>
-            <a href="" class="button">(Anika's CPT)</a>
-            <a href="" class="button">(Chris's CPT)</a>
+            <a href="slots" class="button">Slots</a>
+            <a href="blackjack" class="button">Blackjack</a>
+            <a href="Dice_game" class="button">Dice Game</a>
+            <a href="racebet" class="button">Race Track</a>
+            <a href="index" class="button">Back to Home</a>
+
