@@ -73,7 +73,7 @@ permalink: /racebet
         <h1>Welcome to the Racetrack!</h1>
         <p>Please place your bets after clicking the `Start Race` button below!</p>       
     </div>
-    <a href="https://jaydenchen17.github.io/casinosim/casinoroom" class="button">Back to Game Room</a>
+    <a href="https://miguelvilla1.github.io/Tri3CSP/casinoroom" class="button">Back to Game Room</a>
     <div class="race-track">
         <img src="images/racetrack.png" alt="Race Track" width="1000" height="200">
         <img id="blueCar" class="car" src="images/blueracecar.png" alt="Blue Car" width="100">
