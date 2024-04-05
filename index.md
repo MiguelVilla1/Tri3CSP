@@ -61,4 +61,4 @@ title: Student Blog
             <a href="houses" class="button">(Sharon's CPT)</a>
             <a href="" class="button">(Alisha's CPT)</a>
             <a href="" class="button">(Anika's CPT)</a>
-            <a href="" class="button">(Chris's CPT)</a>
+            <a href="GeoGames" class="button">(GeoGames)</a>
