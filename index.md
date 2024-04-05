@@ -57,7 +57,7 @@ title: Student Blog
         <p>Choose the project you'd like to participate in!</p>       
         <div class="button-container">
             <a href="casinoroom" class="button">Casino</a>
-            <a href="" class="button">(Kayden's CPT)</a>
+            <a href="maps" class="button">(Kayden's CPT)</a>
             <a href="houses" class="button">(Sharon's CPT)</a>
             <a href="" class="button">(Alisha's CPT)</a>
             <a href="" class="button">(Anika's CPT)</a>
