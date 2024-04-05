@@ -58,7 +58,7 @@ title: Student Blog
         <div class="button-container">
             <a href="casinoroom" class="button">Casino</a>
             <a href="" class="button">(Kayden's CPT)</a>
-            <a href="" class="button">(Sharon's CPT)</a>
+            <a href="houses" class="button">(Sharon's CPT)</a>
             <a href="" class="button">(Alisha's CPT)</a>
             <a href="" class="button">(Anika's CPT)</a>
             <a href="" class="button">(Chris's CPT)</a>
