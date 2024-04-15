@@ -60,5 +60,5 @@ title: Student Blog
             <a href="maps" class="button">Volunteering Map</a>
             <a href="createUser" class="button">Real Estate</a>
             <a href="" class="button">(Alisha's CPT)</a>
-            <a href="" class="button">(Anika's CPT)</a>
+            <a href="books" class="button">Books</a>
             <a href="GeoGames" class="button">GeoGames</a>
