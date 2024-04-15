@@ -58,7 +58,12 @@ title: Student Blog
         <div class="button-container">
             <a href="casinoroom" class="button">Casino</a>
             <a href="maps" class="button">Volunteering Map</a>
+<<<<<<< HEAD
             <a href="createUser" class="button">Real Estate</a>
             <a href="" class="button">(Alisha's CPT)</a>
+=======
+            <a href="houses" class="button">Real Estate</a>
+            <a href="houseindex" class="button">Favorite Houses</a>
+>>>>>>> c1320a5 (houseindex)
             <a href="books" class="button">Books</a>
             <a href="GeoGames" class="button">GeoGames</a>
